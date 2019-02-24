@@ -1,4 +1,7 @@
 # Japanese Characters Recognizer
+## Demo
+![](kanji.gif)
+
 
 <a href="https://yutsu.github.io/kanji_hiragana_CNN/">Demo site</a>
 
