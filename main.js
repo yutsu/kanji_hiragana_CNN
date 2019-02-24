@@ -167,7 +167,7 @@ function preprocess(imgData) {
 
 /* load the model */
 async function startLoadingModel() {
-    model = await tf.loadLayersModel('model/model.json')
+    model = await tf.loadModel('model/model.json')
     //warm up
     model.predict(tf.zeros([1, 64, 64, 1]))
 
