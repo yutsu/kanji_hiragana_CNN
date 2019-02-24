@@ -1,0 +1,39 @@
+
+.wf-sawarabimincho { font-family: "Sawarabi Mincho"; }
+
+
+
+button {
+    margin-left:10px;
+}
+
+section {
+    margin-top:120px
+}
+
+
+.btn-group {
+    margin-top:40px;
+}
+
+.canvas {
+    border:1px solid #b9bfc9;
+    margin-top:25px;
+}
+
+.col {
+    margin-left:100px;
+}
+
+.prediction {
+    font-family: "Sawarabi Mincho";
+    font-size: 20pt;
+}
+
+
+.prediction{
+    /*background-image: linear-gradient(orange, orange);*/
+    background-position: left, right;
+    background-repeat: no-repeat;
+    background-size: var(--rate) 100%, calc(100% - var(--rate)) 100%;
+}

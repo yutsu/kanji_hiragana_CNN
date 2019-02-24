@@ -1,0 +1,13 @@
+*.exe
+*.pckl
+*.png
+*.zip
+*.pyc
+
+etlcbd-inst.py
+
+ETL8B/*
+!ETL8B/.gitkeep
+
+weights/*
+*.h5
