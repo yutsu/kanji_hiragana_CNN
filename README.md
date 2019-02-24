@@ -1,5 +1,6 @@
 # Japanese Characters Recognizer
 ## Demo
+
 ![](kanji.gif)
 
 
