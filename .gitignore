@@ -11,5 +11,5 @@ ETL8B/*
 
 weights/*
 *.h5
-
+keras.h5
 memo.txt
